@@ -1,0 +1,29 @@
+{
+  "name": "llm-app",
+  "build": {
+    "context": "${localEnv:BEREVIEW_CDE_PATH}/envs/docker/llm-app",
+    "dockerfile": "${localEnv:BEREVIEW_CDE_PATH}/envs/docker/llm-app/Dockerfile"
+  },
+  "customizations": {
+    "vscode": {
+      "extensions": [
+        "GitHub.vscode-pull-request-github",
+        "esbenp.prettier-vscode",
+        "ms-python.black-formatter"
+      ],
+      "settings": {
+        "terminal.integrated.defaultProfile.linux": "bash",
+        "githubIssues.issueBranchTitle": "feature/${issueNumber}-${sanitizedIssueTitle}",
+        "editor.formatOnSave": true,
+        "editor.defaultFormatter": "esbenp.prettier-vscode",
+        "[python]": {
+          "editor.defaultFormatter": "ms-python.black-formatter"
+        }
+      }
+    }
+  },
+  "features": {
+    "ghcr.io/devcontainers/features/docker-outside-of-docker:1": {}
+  },
+  "mounts": ["source=${localEnv:HOME}/.ssh,target=/home/vscode/.ssh,type=bind"]
+}
