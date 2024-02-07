@@ -19,3 +19,5 @@
 - [Notion Document](https://www.notion.so/bereview/Functions-Tools-and-Agents-with-LangChain-a772477d3f4f4244b9b7c03ba24ce334)
 
 ### 1.1 [OpenAI Function Calling](https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_1%20-%20OpenAI%20Function%20Calling.ipynb)
+
+### 1.2 [LangChain Expression Language (LCEL)](<https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_2%20-%20LangChain%20Expression%20Language%20(LCEL).ipynb>)
