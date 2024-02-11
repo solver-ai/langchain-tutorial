@@ -23,3 +23,5 @@
 ### 1.2 [LangChain Expression Language (LCEL)](<https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_2%20-%20LangChain%20Expression%20Language%20(LCEL).ipynb>)
 
 ### 1.3 [OpenAI functions in LangChain](https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_3%20-%20OpenAI%20functions%20in%20LangChain.ipynb)
+
+### 1.4 [Tagging and Extraction](https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_4%20-%20Tagging%20and%20Extraction.ipynb)
