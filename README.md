@@ -25,3 +25,7 @@
 ### 1.3 [OpenAI functions in LangChain](https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_3%20-%20OpenAI%20functions%20in%20LangChain.ipynb)
 
 ### 1.4 [Tagging and Extraction](https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_4%20-%20Tagging%20and%20Extraction.ipynb)
+
+### 1.5 [Tools and routing](https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_5%20-%20Tools%20and%20routing.ipynb)
+
+### 1.6 [Conversational Agent](https://github.com/solver-ai/langchain-tutorial/blob/main/1%20-%20Functions%2C%20Tools%20and%20Agents%20with%20LangChain/1_6%20-%20Conversational%20Agent.ipynb)

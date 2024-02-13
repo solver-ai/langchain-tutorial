@@ -1,3 +1,8 @@
 docarray==0.40.0
 pydantic==1.10.8
 beautifulsoup4==4.12.3
+wikipedia==1.4.0
+openapi-pydantic==0.4.0
+namu-wiki-extractor==0.3.0
+panel==1.3.8
+jupyter-bokeh==3.0.7
